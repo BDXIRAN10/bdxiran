@@ -1,2 +1,3 @@
 # bdxiran
-bdxiran
+cd bdxiran10
+
